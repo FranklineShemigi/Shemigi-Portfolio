@@ -13,7 +13,7 @@ I enjoy turning ideas into working web applications, experimenting with new tech
 
 My current focus is frontend development with **HTML, CSS, and JavaScript**, while working toward full-stack development.
 
-I also enjoy building projects around practical areas such as healthcare, finance, and market data.
+I also enjoy building projects around practical areas such as healthcare, finance, market data etc
 
 ---
 
