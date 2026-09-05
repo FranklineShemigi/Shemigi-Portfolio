@@ -6,6 +6,18 @@ I build web applications and digital tools focused on solving practical problems
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a developer who learns by building.
+
+I enjoy turning ideas into working web applications, experimenting with new technologies, and improving projects through iteration.
+
+My current focus is frontend development with **HTML, CSS, and JavaScript**, while working toward full-stack development.
+
+I also enjoy building projects around practical areas such as healthcare, finance, and market data.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🩺 Net-Health
