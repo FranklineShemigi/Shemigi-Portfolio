@@ -1,64 +1,27 @@
-Shemigi
+# Shemigi
 
-Web Developer • Builder • Problem Solver
+### Web Developer · Builder · Problem Solver
 
-I build web applications and digital tools with a focus on practical problems, clean interfaces, and useful functionality.
-
-Currently developing with HTML, CSS, and JavaScript, while expanding into full-stack web development.
+I build web applications and digital tools focused on solving practical problems and turning ideas into working products.
 
 ---
 
-Featured Projects
+## 🚀 Featured Projects
 
-Projects that represent my main development work.
+### 🩺 Net-Health
 
-Net-Health
+AI-powered clinical learning and medication safety platform.
 
-Clinical learning and medication safety platform.
+**[🌐 Live Demo](https://net-health.vercel.app/)** · **[💻 Source Code](https://github.com/FranklineShemigi/Net-Health)**
 
-Live: "Vercel Demo" (YOUR_LINK)
-Code: "GitHub Repository" (YOUR_LINK)
+### 📈 NSE Market Analytics
 
-Stock Analytics
+A web platform for exploring companies listed on the Nairobi Securities Exchange.
 
-NSE market analytics platform for exploring companies, historical prices, performance, and market data.
+**[🌐 Live Demo](https://stock-analytics-rho.vercel.app/)** · **[💻 Source Code](https://github.com/FranklineShemigi/Stock-Analytics)**
 
-Live: "Vercel Demo" (YOUR_LINK)
-Code: "GitHub Repository" (YOUR_LINK)
+### 💰 SMG FinanceTracker
 
-SMG FinanceTracker
+A personal finance application for tracking income, expenses, and M-PESA transactions.
 
-Personal finance tracking application focused on organizing income, expenses, and financial activity.
-
-Live: "Vercel Demo" (YOUR_LINK)
-Code: "GitHub Repository" (YOUR_LINK)
-
----
-
-Technologies
-
-Frontend
-HTML · CSS · JavaScript
-
-Tools
-Git · GitHub · Vercel · VS Code
-
----
-
-Currently Learning
-
-Full-stack web development, with a focus on building applications from the frontend through to the backend.
-
----
-
-Beyond the Main Projects
-
-I also build smaller applications, UI experiments, and prototypes to test ideas and learn new techniques.
-
-Mini Projects · Experiments · Prototypes
-
----
-
-Connect
-
-GitHub is where I document what I'm building, experiment with ideas, and track my development journey.
+**[🌐 Live Demo](https://smg-finance-tracker.vercel.app/)** · **[💻 Source Code](https://github.com/FranklineShemigi/SMG-FinanceTracker)**
